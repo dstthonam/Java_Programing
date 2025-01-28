@@ -16,7 +16,7 @@ public class Ch03_Exam09 {
 		System.out.println("100원 :" + B + "개");
 		System.out.println("50원 :" + C + "개");
 		System.out.println("10원 :" + D + "개");
-		System.out.println("1원 :" + E + "개");
+		System.out.println("1원 :" + E + "개이다");
 
 	}
 

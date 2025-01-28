@@ -9,6 +9,19 @@ public class Ch03_Exam06 {
 		 		int B = (int) (tot /1000) % 10;
 		 		int C = (int) (tot / 100) % 10;
 		 		int D = (int) (tot / 10) % 10;
+		 		
+		 		/**
+				int a = tot/10000;
+				tot %= 10000; 	
+				
+				int b = tot/1000;
+				tot %= 1000; 
+				
+				int c = tot/100;
+				tot %= 100; 
+				
+				int d = tot/10;
+		 		 */
 
 		 		System.out.println("만원 : " + A);
 		 		System.out.println("천원 : " + B);
