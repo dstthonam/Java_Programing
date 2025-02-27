@@ -29,7 +29,6 @@ class Cube4 extends Rectangle4 {
 	}
 }
 
-
 public class CastTest1 {
 	public static void main(String[] args) {
 		Rectangle4 r = new Cube4(10, 20, 30);
