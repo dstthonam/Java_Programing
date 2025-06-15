@@ -1,8 +1,8 @@
 package EasyTest.Chapter12;
 
 class WrapperTest_01 {
-	int a = Integer.parseInt(args[0]);
-	double b = Double.parseDouble(args[1]);
+	//int a = Integer.parseInt(args[0]);
+	//double b = Double.parseDouble(args[1]);
 	char c = Character.toLowerCase('A');
 	
 	Integer A = 10;

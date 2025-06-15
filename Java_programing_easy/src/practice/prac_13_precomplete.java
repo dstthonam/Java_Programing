@@ -1,7 +1,7 @@
 package practice;
 import java.util.Scanner;
 
-public class prac_13 {					// 그레이코드 구하기
+public class prac_13_precomplete {					// 그레이코드 구하기
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -10,6 +10,7 @@ public class prac_13 {					// 그레이코드 구하기
 			int A = sc.nextInt();
 		}
 
+		
+		
 	}
-
 }
